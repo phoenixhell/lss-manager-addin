@@ -22,7 +22,7 @@
  - Item 2
 
 ## Credits
-Dieses Script ist eine Erweiterung für den LSS-Manager und kann unter Umständen ohne dieses nicht funktionieren.
+Dieses Script ist eine Erweiterung für den LSS-Manager und kann unter Umständen ohne diesen nicht funktionieren.
 Alle Rechte für den LSS Manager liegen bei lost und Northdegree.
 
 [LSS Manager Forenthread](https://forum.leitstellenspiel.de/index.php/Thread/8077-LSS-MANAGER-by-lost-Northdegree-BETA-2-7-ehem-REDESIGN/?pageNo=1)
