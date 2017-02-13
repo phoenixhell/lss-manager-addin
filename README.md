@@ -1,5 +1,5 @@
 # LSS-Manger Add-in
-###### by Testuser 123456
+###### by PhoenixHell
 
 ## Features
  - Fahrzeug Status Zähler (Zeigt, wieviele Fahrzeuge sich in einem bestimmten FMS-Status befinden)
