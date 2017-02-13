@@ -18,7 +18,7 @@
  3. Item 3
 
 ## ToDo
- - Item 123
+ - Item 1
  - Item 2
 
 ## Credits
