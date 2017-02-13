@@ -28,4 +28,3 @@ Alle Rechte für den LSS Manager liegen bei lost und Northdegree.
 [LSS Manager Forenthread](https://forum.leitstellenspiel.de/index.php/Thread/8077-LSS-MANAGER-by-lost-Northdegree-BETA-2-7-ehem-REDESIGN/?pageNo=1)
 
 [LSS Manager auf GitHub](https://github.com/lostdesign/lss-layout-manager/)
-gittest
